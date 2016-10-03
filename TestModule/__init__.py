@@ -1,1 +1,1 @@
-from wrapper import func
+from wrapper import printData
