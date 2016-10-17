@@ -2,9 +2,9 @@
 A small example of building python module using ctypes
 
 The module can be installed by
-'''
+```
 python setup.py install
-'''
+```
 
 
 ## References:
